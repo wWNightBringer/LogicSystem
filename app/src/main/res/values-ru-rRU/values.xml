@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Логистика</string>
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+    <string name="title">Заголовок</string>
+    <string name="action_settings">Настройки</string>
+    <string name="full_name">Имя</string>
+    <string name="serial_number">Номер</string>
+    <string name="check">Проверка</string>
+</resources>
